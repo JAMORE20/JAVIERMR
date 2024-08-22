@@ -1,0 +1,36 @@
+Package: JAVIERMR
+Title: Euclidean distance
+Version: 0.0.0.9000
+Authors@R: 
+    person("Javier Mosquera Renteria", "Javier", , "Jamosquera@unal.edu.co", role = c("aut", "cre"),
+           comment = c(ORCID = "https://orcid.org/0009-0004-7105-461X"))
+Description: With this package we can calculate Euclidean distances.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends: 
+    R (>= 2.10)
+LazyData: true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
