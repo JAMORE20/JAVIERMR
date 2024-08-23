@@ -2,7 +2,7 @@ Package: JAVIERMR
 Title: Euclidean distance
 Version: 0.0.0.9000
 Authors@R: 
-    person("Javier Mosquera Renteria", "Javier", , "Jamosquerar@unal.edu.co", role = c("aut", "cre"),
+    person("Javier Mosquera Renteria", "Javier", , "jamosquerar@unal.edu.co", role = c("aut", "cre"),
            comment = c(ORCID = "https://orcid.org/0009-0004-7105-461X"))
 Description: With this package we can calculate Euclidean distances.
 License: MIT + file LICENSE
