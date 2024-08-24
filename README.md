@@ -9,7 +9,9 @@ The "JAVIERMR" package is a tool designed to calculate Euclidean distances based
 You can install the package directly from CRAN using:
 
 ```r
+First install and load the "devtools" package like this:
 install.package(devtools)
 library(devtools)
+Then install and load the "JAVIERMR" package like this:
 install_github("JAMORE20/JAVIERMR")
 library(JAVIERMR)
