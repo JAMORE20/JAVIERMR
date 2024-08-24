@@ -11,7 +11,7 @@ X2: Root length
 X3: Leaf Area  
 X4: Fruit Pulp
 
-To calculate the euclidean distances with respect to the mean of the data, use the following function:
+To calculate the Euclidean distances, use the following function:
 
 Deuclidiana(Datos)
 
