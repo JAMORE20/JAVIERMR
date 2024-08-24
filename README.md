@@ -1,8 +1,6 @@
 # Mi paquete "JAVIERMR"
 
-El paquete "JAVIERMR" es una herramienta que permite hallar las distancia euclidianas, apartir de un conjunto de datos con ciertas variables, el proceso que sigue la funcion,
-es seleccionar cada observacion del conjunto de datos, especificamente es cada fila de la matriz de datos,  y hallar las distancias euclidianas respecto al vector de medias del
-conjunto de datos, que es el vector que representa la media de cada variable. 
+El paquete "JAVIERMR" es una herramienta diseñada para calcular distancias euclidianas en un conjunto de datos con ciertas variables. La función principal del paquete toma cada observación del conjunto de datos, es decir, cada fila de la matriz de datos, y calcula las distancias euclidianas entre estas observaciones y el vector de medias del conjunto de datos. Este vector de medias representa el promedio de cada variable en el conjunto de datos.
 
 
 
