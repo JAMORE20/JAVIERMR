@@ -11,7 +11,7 @@ conjunto de datos, que es el vector que representa la media de cada variable.
 Puedes instalar MiPaquete directamente desde CRAN utilizando:
 
 ```r
-install_github(devtools)
+install.package(devtools)
 library(devtools)
 install_github("JAMORE20/JAVIERMR")
 library(JAVIERMR)
