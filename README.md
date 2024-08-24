@@ -1,8 +1,21 @@
 # Mi paquete "JAVIERMR"
 
-The "JAVIERMR" package is a tool designed to calculate Euclidean distances based on a dataset with specific variables. The main function of the package processes each observation in the dataset, specifically each row of the data matrix, and calculates the Euclidean distances relative to the mean vector of the dataset. This mean vector represents the average of each variable in the dataset.
+The "JAVIERMR" package is a tool designed to calculate Euclidean distances based on a dataset with specific variables. The main function of the package processes each observation in the dataset, specifically each row of the data matrix, and calculates the Euclidean distances relative to the mean vector of the dataset. This mean vector represents the average of each variable in the dataset. 
 
-Las variables del conjunto de datos llamado "Datos" para el ejemplo propuesto en el paquete, son: X1, X2, X3 Y X4. Los detalles de estas variables los consigue en la desceipcion de los datos
+*Euclidean Distance: It is useful when the variables have the same scale and there is no correlation between them. It is simpler and more direct, suitable for data where the variables are directly comparable.
+
+The variables in the dataset called "Datos" for the example provided in the package are:
+
+X1: Root Length  
+X2: Leaf Area  
+X3: Leaf Area  
+X4: Fruit Pulp
+
+To calculate the euclidean distances with respect to the mean of the data, use the following function:
+
+Deuclidiana(Datos)
+
+Note: In the "Packages" section of the R console, search for the package called "JAVIERMR", click on it, and then select "Deuclidiana". There, you will find an example of calculating euclidean distance in R for the dataset.
 
 
 ## Installation
