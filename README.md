@@ -6,7 +6,7 @@ Euclidean Distance: It is useful when the variables have the same scale and ther
 
 The variables in the dataset called "Datos" for the example provided in the package are:
 
-X1: Root Length  
+X1: Plant height  
 X2: Root length  
 X3: Leaf Area  
 X4: Fruit Pulp
