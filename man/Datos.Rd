@@ -11,10 +11,10 @@ fruit pulp X4 (in gm.), of a variety of apple tree.}
 
 A data frame with 10 rows and 4 columns:
 \describe{
-\item{X1}{Altura de la planta}
-\item{X2}{Longitud radicular}
-\item{X3}{Area foliar}
-\item{X4}{Pulpa del fruto}
+\item{X1}{Plant height}
+\item{X2}{Root length}
+\item{X3}{Leaf area}
+\item{X4}{Fruit pulp}
 }
 }
 }
