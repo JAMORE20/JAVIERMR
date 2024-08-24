@@ -24,10 +24,10 @@ You can install the package directly from CRAN using:
 
 ```r
 # First, install and load the 'usethis' package like this:
-install.package(usethis)
+install.packages(usethis)
 library(usethis)
 # Then install and load the "devotols" package like this:
-install.package(devtools)
+install.packages(devtools)
 library(devtools)
 # Then install and load the "JAVIERMR" package like this:
 install_github("JAMORE20/JAVIERMR")
