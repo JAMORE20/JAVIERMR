@@ -2,7 +2,7 @@
 
 The "JAVIERMR" package is a tool designed to calculate Euclidean distances based on a dataset with specific variables. The main function of the package processes each observation in the dataset, specifically each row of the data matrix, and calculates the Euclidean distances relative to the mean vector of the dataset. This mean vector represents the average of each variable in the dataset. 
 
-*Euclidean Distance: It is useful when the variables have the same scale and there is no correlation between them. It is simpler and more direct, suitable for data where the variables are directly comparable.
+Euclidean Distance: It is useful when the variables have the same scale and there is no correlation between them. It is simpler and more direct, suitable for data where the variables are directly comparable.
 
 The variables in the dataset called "Datos" for the example provided in the package are:
 
