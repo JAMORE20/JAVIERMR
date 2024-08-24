@@ -23,7 +23,10 @@ Note: In the "Packages" section of the R console, search for the package called 
 You can install the package directly from CRAN using:
 
 ```r
-# First install and load the "devtools" package like this:
+# First, install and load the 'usethis' package like this:
+install.package(usethis)
+library(usethis)
+# Then install and load the "devotols" package like this:
 install.package(devtools)
 library(devtools)
 # Then install and load the "JAVIERMR" package like this:
