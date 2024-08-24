@@ -1,12 +1,12 @@
 # Mi paquete "JAVIERMR"
 
-El paquete "JAVIERMR" es una herramienta diseñada para calcular distancias euclidianas en un conjunto de datos con ciertas variables. La función principal del paquete toma cada observación del conjunto de datos, es decir, cada fila de la matriz de datos, y calcula las distancias euclidianas entre estas observaciones y el vector de medias del conjunto de datos. Este vector de medias representa el promedio de cada variable en el conjunto de datos.
+The "JAVIERMR" package is a tool designed to calculate Euclidean distances based on a dataset with specific variables. The main function of the package processes each observation in the dataset, specifically each row of the data matrix, and calculates the Euclidean distances relative to the mean vector of the dataset. This mean vector represents the average of each variable in the dataset.
 
 
 
-## Instalación
+## Installation
 
-Puedes instalar MiPaquete directamente desde CRAN utilizando:
+You can install the package directly from CRAN using:
 
 ```r
 install.package(devtools)
